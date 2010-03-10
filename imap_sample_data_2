@@ -1,0 +1,65 @@
+<p class='paginator'><small>(2 Pages) &nbsp; <a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?page=1', null, null, 'script');" href="#email_paging">1</a> 2  &nbsp; <a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?page=1', null, null, 'script');" href="#email_paging">First</a> | <a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?page=1', null, null, 'script');" href="#email_paging">Prev</a> | </small></p> 
+<table width='613px'> 
+  <thead> 
+    <tr> 
+      <th>&nbsp;</th> 
+      <th>From</th> 
+      <th>Subject</th> 
+      <th><a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?op=SORT&amp;page=2&amp;scc=date', null, null, 'script');" href="#email_paging">Date</a></th> 
+      <th><a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?op=SORT&amp;page=2&amp;scc=size', null, null, 'script');" href="#email_paging">Size</a></th> 
+      <th>&nbsp;</th> 
+    </tr> 
+  </thead> 
+  <tbody> 
+    
+      <tr class="seen"> 
+  <td>&nbsp;</td> 
+  <td class="from">Mercury Records</td> 
+  <td class="subject"><div class='cutField'> 
+    <a onclick="showDialog('/Messages/Message.aspx?msg_id=15', 'View Message', 600, 600);" href="#read_message">New Release from Hole "Skinny Little Bitch" On Mercury Records&nbsp;</a> 
+  </td> 
+  <td class="date">2010-03-03</td> 
+  <td class="size">24&nbsp;KB</td> 
+  <td class="attachind"><img alt="Attachment" src="/images/attachment.png?1267693018" /></td> 
+</tr> 
+ 
+    
+      <tr class="notseen"> 
+  <td>&nbsp;</td> 
+  <td class="from">HubSpot</td> 
+  <td class="subject"><div class='cutField'> 
+    <a onclick="showDialog('/Messages/Message.aspx?msg_id=13', 'View Message', 600, 600);" href="#read_message">Invitation to Webinar: How to Monitor Your Social Media Presence in 10 Minutes a Day&nbsp;</a> 
+  </td> 
+  <td class="date">2010-03-03</td> 
+  <td class="size">9&nbsp;KB</td> 
+  <td class="attachind"><img alt="Attachment" src="/images/attachment.png?1267693018" /></td> 
+</tr> 
+ 
+    
+      <tr class="notseen"> 
+  <td>&nbsp;</td> 
+  <td class="from">lynda.com</td> 
+  <td class="subject"><div class='cutField'> 
+    <a onclick="showDialog('/Messages/Message.aspx?msg_id=14', 'View Message', 600, 600);" href="#read_message">lynda.com March newsletter&nbsp;</a> 
+  </td> 
+  <td class="date">2010-03-03</td> 
+  <td class="size">55&nbsp;KB</td> 
+  <td class="attachind"><img alt="Attachment" src="/images/attachment.png?1267693018" /></td> 
+</tr> 
+ 
+    
+      <tr class="seen"> 
+  <td>&nbsp;</td> 
+  <td class="from">Kale McNaney</td> 
+  <td class="subject"><div class='cutField'> 
+    <a onclick="showDialog('/Messages/Message.aspx?msg_id=10', 'View Message', 600, 600);" href="#read_message">a test from a bogus address&nbsp;</a> 
+  </td> 
+  <td class="date">2010-02-15</td> 
+  <td class="size">2&nbsp;KB</td> 
+  <td class="attachind"><img alt="Attachment" src="/images/attachment.png?1267693018" /></td> 
+</tr> 
+ 
+    
+  </tbody> 
+</table> 
+<p class='paginator'><small>(2 Pages) &nbsp; <a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?page=1', null, null, 'script');" href="#email_paging">1</a> 2  &nbsp; <a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?page=1', null, null, 'script');" href="#email_paging">First</a> | <a onclick="jQuery.get('/Messages/Index.aspx?contact=kdmny30@gmail.com&amp;?page=1', null, null, 'script');" href="#email_paging">Prev</a> | </small></p>

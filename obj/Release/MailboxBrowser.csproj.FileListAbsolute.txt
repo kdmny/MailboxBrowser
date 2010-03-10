@@ -1,0 +1,10 @@
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.core.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.core.interfaces.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.framework.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.framework.xml
+C:\Users\Kale\Documents\projects\MailboxProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\MailboxBrowser.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\MailboxBrowser.pdb
+C:\Users\Kale\Documents\projects\MailboxProvider\obj\Release\MailboxBrowser.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\obj\Release\MailboxBrowser.pdb
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\MailboxBrowser.dll.config

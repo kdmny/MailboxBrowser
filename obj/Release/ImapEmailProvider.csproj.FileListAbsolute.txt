@@ -1,0 +1,5 @@
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\bin\Release\ImapEmailProvider.dll
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\bin\Release\ImapEmailProvider.pdb
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\obj\Release\ImapEmailProvider.dll
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\obj\Release\ImapEmailProvider.pdb

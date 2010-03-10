@@ -1,0 +1,14 @@
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\bin\Release\MailboxProvider.dll
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\bin\Release\MailboxProvider.pdb
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\obj\Release\MailboxProvider.dll
+C:\Users\Kale\AppData\Local\Temporary Projects\ImapEmailProvider\obj\Release\MailboxProvider.pdb
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\MailboxProvider.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\MailboxProvider.pdb
+C:\Users\Kale\Documents\projects\MailboxProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kale\Documents\projects\MailboxProvider\obj\Release\MailboxProvider.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\obj\Release\MailboxProvider.pdb
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.core.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.core.interfaces.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.framework.dll
+C:\Users\Kale\Documents\projects\MailboxProvider\bin\Release\nunit.framework.xml
